@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Qingxiang Meng(孟庆祥），
-- 🔭 I’m currently working in Hohai University(河海大学) as an associate professor.
+My name is Qingxiang Meng，
+- 🔭 I’m currently working in Hohai University as an associate professor.
 
 <!--
 **GeoGroup/geogroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
